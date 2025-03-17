@@ -284,7 +284,7 @@
   align-items: flex-start;
   justify-content: flex-start;
   position: absolute;
-  left: 40%; /* Move it slightly to the right */
+  left: 80%; /* Move it slightly to the right */
   top: 0px;
   transform: translateX(-40%); /* Adjust so it's not too far right */
 }
