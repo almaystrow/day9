@@ -284,9 +284,9 @@
   align-items: flex-start;
   justify-content: flex-start;
   position: absolute;
-  left: 20%; /* Move it slightly to the right */
+  left: 50%; /* Moved slightly to the left from 55% */
   top: 0px;
-  transform: translateX(-40%); /* Adjust so it's not too far right */
+  transform: translateX(-45%); /* Adjusted to balance the shift */
 }
 .frame-4693 {
   display: flex;
