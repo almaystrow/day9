@@ -286,7 +286,7 @@
   position: absolute;
   left: 55%; /* Move it slightly to the right */
   top: 0px;
-  transform: translateX(-20%); /* Adjust so it's not too far right */
+  transform: translateX(0%); /* Adjust so it's not too far right */
 }
 .frame-4693 {
   display: flex;
