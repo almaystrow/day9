@@ -434,7 +434,7 @@
   justify-content: flex-start;
   flex-shrink: 0;
   position: relative;
-  margin-left: 10px; /* Moves it a little bit to the right */
+  margin-left: 15px; /* Increased by 5px for a small step to the right */
 }
 .is-this-the-right-plan-for-my-restaurant {
   color: var(--neutral-colors-800, #121212);
