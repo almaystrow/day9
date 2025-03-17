@@ -525,7 +525,7 @@
   align-items: flex-start;
   justify-content: flex-start;
   position: absolute;
-  left: 859.35px;
+  left: 909.35px; /* Moved 50px to the right from 859.35px */
   top: 361px;
 }
 ._32-px {
