@@ -500,7 +500,7 @@
   width: 390px;
   height: 889px;
   position: static;
-  margin-left: 60px; /* A moderate shift to the right */
+  margin-left: 100px; /* Increased for more shift to the right */
 }
 .image {
   background: var(--neutral-colors-100, #ffffff);
