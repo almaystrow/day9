@@ -349,7 +349,10 @@
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
-  position: relative;
+  position: absolute; /* Changed to absolute to match .frame-4694 */
+  left: 50%; /* Same as .frame-4694 */
+  transform: translateX(-45%); /* Same as .frame-4694 */
+  top: 0px; /* Added to match .frame-4694; adjust if vertical position differs */
 }
 .what-s-included-in-the-plan {
   color: var(--neutral-colors-800, #121212);
